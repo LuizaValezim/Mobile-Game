@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0ada4547e69a4e959605f877c0d33a01
+timeCreated: 1562193374
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "DIN Alternate Bold"
+  fontNames:
+  - DIN Alternate
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
